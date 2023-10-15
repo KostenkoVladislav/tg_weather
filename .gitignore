@@ -3,3 +3,4 @@ config.py
 *.log
 1.py
 11.py
+.idea
